@@ -44,5 +44,5 @@ def ask():
     return {"answers": message}
 
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
